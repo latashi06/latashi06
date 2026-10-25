@@ -1,75 +1,124 @@
-# LATASHI
-
+[LATASHI_README.md](https://github.com/user-attachments/files/33929888/LATASHI_README.md)
 <div align="center">
 
-### Advanced Anti-Cheat Specialist | Full Stack Developer | IT Professional
+<img src="./assets/banner.svg" width="100%" alt="LATASHI — Anti-Cheat Engineering and Security Research" />
 
-**Anti-Cheat Engineering · Digital Forensics · Security Research**
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=latashi06&color=0e75b6&style=flat-square)
+<a href="https://github.com/latashi06"><img src="https://img.shields.io/badge/GITHUB-LATASHI06-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=9f1239" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=latashi06&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/FOCUS-ANTI--CHEAT-b91c1c?style=for-the-badge&labelColor=151515" alt="Anti-cheat focus" />
+
+**ANTI-CHEAT ENGINEERING** `//` **DIGITAL FORENSICS** `//` **FULL-STACK DEVELOPMENT** `//` **IT INFRASTRUCTURE**
+
+*Detection is an engineering problem. Evidence is the standard.*
 
 </div>
 
 ---
 
-## About Me
+### `01 / identity`
 
-I'm **Latashi**, an advanced anti-cheat specialist and full stack developer based in Türkiye, working in IT at **Cisco**.
+```text
+alias         : LATASHI
+primary       : Anti-Cheat Engineering & Detection Research
+secondary     : Full-Stack Development / Windows Forensics / IT
+professional  : IT @ Cisco
+location      : Türkiye
+approach      : Evidence-driven analysis, reproducible research, responsible disclosure
+```
 
-My primary focus is **anti-cheat engineering**, Windows internals, forensic investigations and security research. I also work with software development, automation and infrastructure technologies.
+I focus on understanding **how software behaves, how integrity controls fail, and how to investigate those failures without confusing indicators with proof**. My interests span game security, Windows internals, runtime instrumentation, endpoint telemetry, detection logic, and the engineering behind reliable anti-cheat systems.
 
-- Focused on advanced anti-cheat technologies and detection
-- Experienced with Windows forensic analysis and memory investigation
-- Interested in reverse engineering and system security
-- Full stack development and IT infrastructure
+Outside security, I work across **application development, automation, networking, and IT infrastructure**.
 
----
+### `02 / anti-cheat research`
 
-## Areas of Expertise
+<table>
+<tr><td width="50%" valign="top">
 
-| Security & Anti-Cheat | Development & Infrastructure |
-|---|---|
-| Anti-Cheat Engineering & Detection | Full Stack Development |
-| Windows Forensics & Memory Analysis | Python Automation |
-| Reverse Engineering & Security Research | JavaScript & TypeScript |
-| Process & Artifact Investigation | IT Infrastructure & Networking |
+**🛡️ Detection & Integrity**
 
----
+- Client integrity and trust boundaries
+- User-mode vs kernel-mode visibility
+- Process and module inspection
+- PE loading, injection indicators and memory anomalies
+- Signature, heuristic and behavioral detection
+- False-positive analysis and evidence correlation
 
-## Technologies & Tools
+</td><td width="50%" valign="top">
 
-### Languages & Development
+**🔬 Windows & Runtime Forensics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Prefetch, Amcache, Shimcache, BAM / DAM
+- MFT, USN Journal and filesystem timelines
+- Windows Event Log and Sysmon telemetry
+- Service, driver and startup persistence review
+- Java agents, class loading and JAR integrity
+- Execution traces, provenance and timeline reconstruction
 
-### Security & Forensics
+</td></tr>
+</table>
 
-![Windows Forensics](https://img.shields.io/badge/Windows-Forensics-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse-Engineering-red?style=for-the-badge)
-![Memory Analysis](https://img.shields.io/badge/Memory-Analysis-6f42c1?style=for-the-badge)
-![Anti Cheat](https://img.shields.io/badge/Anti--Cheat-Engineering-238636?style=for-the-badge)
+> **Investigation principle:** A single detection, missing artifact or suspicious string is not sufficient evidence on its own. Findings should be reproducible, time-correlated and evaluated against legitimate explanations.
 
-**Tools:** System Informer · Process Explorer · WinDbg · JADX · Windows Forensics
-
-### Infrastructure
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## GitHub Statistics
+### `03 / technical toolkit`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=latashi06&show_icons=true&theme=github_dark&hide_border=true)
+**Development**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latashi06&layout=compact&theme=github_dark&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,git,github,vscode&theme=dark" alt="Development stack" />
+
+**Systems & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell,docker,postgres,mysql&theme=dark" alt="Systems stack" />
+
+</div>
+
+**Analysis tools** `System Informer` · `Process Explorer` · `Autoruns` · `WinDbg` · `JADX` · `PE-bear` · `Detect It Easy` · `Event Viewer` · `Sysmon` · `Wireshark`
+
+**Areas** `Windows Internals` · `PE / DLL Analysis` · `Memory Inspection` · `Java Runtime` · `Network Analysis` · `Detection Engineering`
+
+<sub>Technology icons represent areas of work and interest; repositories are the best place to evaluate actual implementations.</sub>
+
+### `04 / engineering mindset`
+
+| Principle | What it means in practice |
+|:--|:--|
+| **Signal over noise** | Separate high-confidence findings from weak indicators and scanner false positives. |
+| **Traceability** | Correlate process, filesystem, registry and event-log evidence using timestamps and context. |
+| **Defense in depth** | Consider multiple telemetry sources rather than depending on one detection technique. |
+| **Reproducibility** | Document test conditions, expected behavior, limitations and validation steps. |
+| **Privacy by design** | Minimize collection, use authorized environments and avoid unnecessary sensitive data. |
+
+### `05 / development & infrastructure`
+
+```text
+FULL STACK    APIs • backend services • web interfaces • databases
+AUTOMATION    Python • PowerShell • repeatable operational workflows
+IT / NETWORK  Windows • Linux • troubleshooting • network fundamentals
+SECURITY      endpoint investigation • telemetry • integrity analysis
+```
+
+### `06 / projects & research`
+
+> **Research and project highlights will appear here as public repositories are released.**
+>
+> Topics: anti-cheat detection prototypes, forensic parsers, telemetry analysis, automation utilities and full-stack applications.
+
+<!-- Replace the section above with links to real projects as you publish them. -->
+
+### `07 / GitHub activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=latashi06&show_icons=true&theme=dark&hide_border=true&title_color=ff4757&icon_color=ff4757&text_color=dddddd&bg_color=0d1117" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latashi06&layout=compact&theme=dark&hide_border=true&title_color=ff4757&text_color=dddddd&bg_color=0d1117" height="165" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=latashi06&bg_color=0d1117&color=eeeeee&line=e11d48&point=ff6677&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+
+<sub>Statistics are generated by third-party services and may be temporarily unavailable.</sub>
 
 </div>
 
@@ -77,6 +126,8 @@ My primary focus is **anti-cheat engineering**, Windows internals, forensic inve
 
 <div align="center">
 
-### Security through research. Precision through engineering.
+**`RESEARCH  >  VERIFY  >  ENGINEER  >  IMPROVE`**
+
+<sub>Personal profile. Opinions and projects are my own and do not represent my employer.</sub>
 
 </div>
