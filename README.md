@@ -1,9 +1,14 @@
-[LATASHI_README.md](https://github.com/user-attachments/files/33929888/LATASHI_README.md)
+[LATASHI_README_UPDATED.md](https://github.com/user-attachments/files/33930073/LATASHI_README_UPDATED.md)
 <div align="center">
 
 <img src="./assets/banner.svg" width="100%" alt="LATASHI — Anti-Cheat Engineering and Security Research" />
 
-<br/>
+<br />
+
+<img src="./assets/security-panel.svg" width="100%" alt="LATASHI Security Engineering Panel" />
+
+<br />
+<br />
 
 <a href="https://github.com/latashi06"><img src="https://img.shields.io/badge/GITHUB-LATASHI06-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=9f1239" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=latashi06&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS" alt="Profile views" />
@@ -107,7 +112,7 @@ SECURITY      endpoint investigation • telemetry • integrity analysis
 >
 > Topics: anti-cheat detection prototypes, forensic parsers, telemetry analysis, automation utilities and full-stack applications.
 
-<!-- Replace the section above with links to real projects as you publish them. -->
+<!-- Replace this section with links to real projects as you publish them. -->
 
 ### `07 / GitHub activity`
 
