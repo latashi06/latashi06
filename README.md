@@ -1,4 +1,3 @@
-[LATASHI_CLEAN_README.md](https://github.com/user-attachments/files/33930283/LATASHI_CLEAN_README.md)
 <div align="center">
 
 # LATASHI
