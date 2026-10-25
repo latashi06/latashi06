@@ -1,0 +1,71 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090d"/>
+      <stop offset="55%" stop-color="#1c0b12"/>
+      <stop offset="100%" stop-color="#360d18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff304f"/>
+      <stop offset="100%" stop-color="#881329"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="218" rx="17"
+        fill="none" stroke="#8b1e32" stroke-width="2"/>
+
+  <path d="M0 45 H1000 M0 110 H1000 M0 175 H1000"
+        stroke="#ffffff" stroke-opacity=".035"/>
+  <path d="M150 0 V220 M350 0 V220 M550 0 V220 M750 0 V220"
+        stroke="#ffffff" stroke-opacity=".035"/>
+
+  <rect x="35" y="35" width="5" height="150" rx="2"
+        fill="url(#accent)"/>
+
+  <text x="65" y="66" fill="#ff4b67"
+        font-family="Arial,sans-serif" font-size="15"
+        font-weight="bold" letter-spacing="3">
+    SECURITY RESEARCH / ENGINEERING
+  </text>
+
+  <text x="62" y="125" fill="#ffffff"
+        font-family="Arial,sans-serif" font-size="51"
+        font-weight="bold" letter-spacing="7">
+    LATASHI
+  </text>
+
+  <text x="65" y="160" fill="#e3e3e8"
+        font-family="Arial,sans-serif" font-size="17"
+        font-weight="bold">
+    ADVANCED ANTI-CHEAT ENGINEERING
+  </text>
+
+  <text x="65" y="185" fill="#a1a1aa"
+        font-family="Arial,sans-serif" font-size="14">
+    WINDOWS FORENSICS  /  REVERSE ENGINEERING  /  IT INFRASTRUCTURE
+  </text>
+
+  <circle cx="872" cy="110" r="70"
+          fill="none" stroke="#7f1d32" stroke-width="2"/>
+  <circle cx="872" cy="110" r="57"
+          fill="#210d16" stroke="#ef3556" stroke-width="2"/>
+
+  <path d="M872 66 L911 81 V108
+           C911 138 894 155 872 166
+           C850 155 833 138 833 108 V81 Z"
+        fill="none" stroke="#ff4767" stroke-width="4"/>
+
+  <path d="M851 111 L866 126 L894 95"
+        fill="none" stroke="#ffffff" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="872" cy="110" r="70"
+          fill="none" stroke="#ff304f"
+          stroke-width="3" stroke-dasharray="55 385">
+    <animateTransform attributeName="transform"
+      type="rotate" from="0 872 110" to="360 872 110"
+      dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>
